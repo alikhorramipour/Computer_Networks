@@ -1,0 +1,4 @@
+['ICMP', 0]['TCP', 330]['UDP', 0]
+['127.0.0.1', 330]
+Min, Avg, Max = (20, 1093.9757575757576, 2064)
+Number of fragmented packets: 0
